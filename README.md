@@ -1,5 +1,5 @@
 
-# Flutter Responsive Widgets & Easy Screen Test Envoriments
+# Flutter Responsive Widgets & Easy Screens Test Envoriments for FSC Flutter BootCamp '22
 
 ## Lessons Learned
 
